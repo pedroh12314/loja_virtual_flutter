@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319200629409",
+    "project_id": "loja-virtual-26188",
+    "storage_bucket": "loja-virtual-26188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319200629409:android:1a25ebca528061d7d556e0",
+        "android_client_info": {
+          "package_name": "br.com.lemes.loja_virtual_nova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319200629409-h44i10m3pfaum24a7pjvuo1hertke3o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Lvsfgn3mMVW-ePZRyGNwkT-sOnrR6NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319200629409-h44i10m3pfaum24a7pjvuo1hertke3o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
